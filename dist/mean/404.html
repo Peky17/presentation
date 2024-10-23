@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      // Verifica si no es la página principal o una ruta válida
+      if (
+        window.location.pathname !== "/" &&
+        window.location.pathname !== "/ebgv-portfolio-web/"
+      ) {
+        // Redirige a la raíz (index.html) sin cambiar la URL
+        window.location.replace(
+          "/ebgv-portfolio-web/" + window.location.search + window.location.hash
+        );
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Page not found</h1>
+    <p>Redirecting to the application...</p>
+  </body>
+</html>
