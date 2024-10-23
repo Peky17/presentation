@@ -1,0 +1,137 @@
+{
+  "configVersion": 1,
+  "timestamp": 1729723511775,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/211.034a9bcc3de1ce02.js",
+        "/505.b3420972ceeb8361.js",
+        "/690.d93b2f45bd85f8b1.js",
+        "/741.3b6ff49d574bd779.js",
+        "/811.9756fd82dbae25cf.js",
+        "/988.02a47cc5f312868e.js",
+        "/common.26a78069d5fbcf8c.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.3dafa6b74eccc111.js",
+        "/manifest.webmanifest",
+        "/polyfills.4a4b600c6397f719.js",
+        "/runtime.ed50ffc638b7674e.js",
+        "/scripts.2f66b6135d2ecb21.js",
+        "/styles.8050ed99caa97375.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/24e8c973eaa9d552bc7ad3cba939a97f.png_wh860.png",
+        "/assets/carrito.png",
+        "/assets/cine.jpg",
+        "/assets/credito.png",
+        "/assets/css/bs-stepper.css",
+        "/assets/efectivo .png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagen comida.png",
+        "/assets/login_image.png",
+        "/assets/logoo.png",
+        "/assets/moneda_sin_fondo.png",
+        "/assets/museo.jpg",
+        "/assets/paypal.png",
+        "/assets/perfil.png",
+        "/assets/prductoo2.png",
+        "/assets/pridycto 1.png",
+        "/assets/producto 2.png",
+        "/assets/productoo.png",
+        "/assets/productoo3.png",
+        "/assets/qr.png",
+        "/assets/teatro.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/211.034a9bcc3de1ce02.js": "9924716b419e879538f5c2cf815f52108c4ba929",
+    "/505.b3420972ceeb8361.js": "db13d9f3fe9ce04bcdda8ad3840f9e265986868e",
+    "/690.d93b2f45bd85f8b1.js": "15bead39de040117705dd49fd5e31628766411ff",
+    "/741.3b6ff49d574bd779.js": "643f8ab7947aec8eff998bd49893cb41eec75f3f",
+    "/811.9756fd82dbae25cf.js": "26912b93f85865febbcdfdca1115ccc3b8cb73a7",
+    "/988.02a47cc5f312868e.js": "0e1f9b539d63a669d0bc2a91764f25adcf69b505",
+    "/assets/24e8c973eaa9d552bc7ad3cba939a97f.png_wh860.png": "46c8dc0f945a94a216d8b8644ea22d3a96ff92ec",
+    "/assets/carrito.png": "0b35a5d98b440318d8ee8c57c36f49524c23904a",
+    "/assets/cine.jpg": "7e9ae7974e7bfd30dc53e6522bde4dc5a8495139",
+    "/assets/credito.png": "bf8c5fe2c2591dcefb81dc411ad3bf850c322671",
+    "/assets/css/bs-stepper.css": "0cb4eb4c095022704e05d3bb09162c6e5ce834c1",
+    "/assets/efectivo .png": "46c8dc0f945a94a216d8b8644ea22d3a96ff92ec",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/imagen comida.png": "9381bf1ba36e45af88cd684b90bc6f0f39d7aa45",
+    "/assets/login_image.png": "ea5bd1afd1a499653809e15a4e200eadac34ac9c",
+    "/assets/logoo.png": "06e95d75d6902f3862101ef6d1875073f1b8b8d8",
+    "/assets/moneda_sin_fondo.png": "067d9a3bd44d5bac80ffa07fa8a42432ed325e96",
+    "/assets/museo.jpg": "e699b2e79aa777177aea10c902854f25508b439e",
+    "/assets/paypal.png": "c40088f583d6ef42363176cb951f19af0de4f0d0",
+    "/assets/perfil.png": "cb3e4aa52181f7bf78501c209f0d3df614b15924",
+    "/assets/prductoo2.png": "d9b504ed5a02c23d00394ee603c324634c3a4fb6",
+    "/assets/pridycto 1.png": "f89d03b2035f77ea86dd33238769e688a421aa67",
+    "/assets/producto 2.png": "f423a8cdf5e234c14f16f9285e1f2190eca3126f",
+    "/assets/productoo.png": "44d76d761da78a60df2a4b50dcc74bbad0cbf227",
+    "/assets/productoo3.png": "97128006de641d73ab9d48d96940afdabbedc495",
+    "/assets/qr.png": "6dbf76382a0aa0c5cd2f711ec080eb1c3af81029",
+    "/assets/teatro.jpg": "ebe8627774f31e3b578d691396cc7722d5f17d34",
+    "/common.26a78069d5fbcf8c.js": "17b9dc993b7f54be02529a4f7cd82ccddd42dc56",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "feb35ae5ab1f3c704fe79bbe40edfca821c1d88d",
+    "/main.3dafa6b74eccc111.js": "72f62af8e26378d4d6b2c79b29d2f9400cb8ece5",
+    "/manifest.webmanifest": "f820d97df583ee733945b6d069c5b67da1bb661c",
+    "/polyfills.4a4b600c6397f719.js": "45a85d4fa0591e852852e674da4bccf411ffb3fd",
+    "/runtime.ed50ffc638b7674e.js": "a4e7042e0ec2d2049d9765885dc40124691bddc9",
+    "/scripts.2f66b6135d2ecb21.js": "7221c3103eaf0809d5d18620fc77819699a3a860",
+    "/styles.8050ed99caa97375.css": "26257e491f79ea60b4bceb561490a02c70408d96"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
